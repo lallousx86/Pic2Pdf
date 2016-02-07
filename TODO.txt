@@ -1,2 +1,3 @@
 - Command line support
-- Save / Load files list
+- Save / Load files list (as if they were projects)
+- Add a column that shows the page numbers
