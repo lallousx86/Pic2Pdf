@@ -176,6 +176,7 @@ namespace Pic2Pdf
                     "Could not write PDF file {0}!\nDetail:\n{1}",
                     OutFile,
                     ex.Message);
+                return;
            }
 
             Text = string.Format(
